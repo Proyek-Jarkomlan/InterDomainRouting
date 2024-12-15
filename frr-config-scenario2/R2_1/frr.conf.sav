@@ -1,0 +1,4 @@
+frr version 8.1
+frr defaults traditional
+hostname R2_1
+service integrated-vtysh-config
